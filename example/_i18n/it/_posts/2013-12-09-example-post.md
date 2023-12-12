@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Esempio
+date: 2013-12-09 12:00:00 Z
+layout: post
 cover: cover.jpg
-date:   2013-12-09 12:00:00
 categories: posts
 ---
 
